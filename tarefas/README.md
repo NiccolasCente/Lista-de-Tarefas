@@ -5,7 +5,7 @@
 <p>cd your-project</p>
 
 <h3>Install dependencies:</h3>
-<p"npm install</p>
+<p></p>npm install</p>
 
 <h3>Star the Development server:</h3>
 <p>Open VS Code Terminal(PowerShell)</p>
